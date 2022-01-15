@@ -52,7 +52,8 @@ class script(object):
 - /imdb - Gᴇᴛ ᴛʜᴇ Fɪʟᴇ ɪɴʀᴏᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍʙᴅ sᴏᴜʀᴄᴇ
 - /search - Gᴇᴛ ᴛʜᴇ Fɪʟᴍ Iɴғᴏʀᴍᴀᴛɪᴏɴ ғᴏʀᴍ Vᴀʀɪᴏᴜs Sᴏᴜʀᴄᴇ
      
-     Bʏ A Cʀᴀᴄᴋᴇʀ
+     Bʏ A : @CRACKERON 🧑‍💻
+"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
