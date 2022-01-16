@@ -43,15 +43,16 @@ class script(object):
 <code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
 
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message)</code>"""
-
-  IMBD_TXT ="""<b>Search</b>
-- 𝖲𝖾𝖺𝗋𝖼𝗁 𝖿𝗂𝗅𝗆 𝖽𝖾𝗍𝖺𝗂𝗅𝗌 𝗐𝗂𝗍𝗁𝗈𝗎𝗍 𝗅𝖾𝖺𝗏𝗂𝗇𝗀 𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆
-- 𝖲𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁𝗈𝗎𝗍 𝗅𝖾𝖺𝗏𝗂𝗇𝗀 𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗆
+<code>[Button Text](buttonalert:This is an alert message)</code>
+IMBD_TXT ="""<b>Search</b>
+- Sᴇᴀʀᴄʜ ғʟɪᴍ Dᴇᴛᴀɪʟs Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
+- Sᴇᴀʀᴄʜ ᴀɴʏᴛʜɪɴɢ Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
 <b>U𝗌𝖺𝗀𝖾:</b>
-- /imdb - 𝗀𝖾𝗍 𝗍𝗁𝖾 𝖿𝗂𝗅𝗆 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖿𝗋𝗈𝗆 𝖨𝖬𝖣𝖻 𝗌𝗈𝗎𝗋𝖼𝖾
-- /search - 𝗀𝖾𝗍 𝗍𝗁𝖾 𝖿𝗂𝗅𝗆 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖿𝗋𝗈𝗆 𝗏𝖺𝗋𝗂𝗈𝗎𝗌 𝗌𝗈𝗎𝗋𝖼𝖾𝗌
-""""
+- /imdb - Gᴇᴛ ᴛʜᴇ Fɪʟᴇ ɪɴʀᴏᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍʙᴅ sᴏᴜʀᴄᴇ
+- /search - Gᴇᴛ ᴛʜᴇ Fɪʟᴍ Iɴғᴏʀᴍᴀᴛɪᴏɴ ғᴏʀᴍ Vᴀʀɪᴏᴜs Sᴏᴜʀᴄᴇ
+     
+     Bʏ A : @CRACKERON 🧑‍💻
+"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
