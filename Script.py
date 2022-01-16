@@ -48,15 +48,14 @@ class script(object):
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>
        
-       IMBD_TXT = """Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ Ex: Mᴏᴠɪᴇs Pʜᴏᴛᴏs Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ
+           IMBD_TXT = """Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ Ex: Mᴏᴠɪᴇs Pʜᴏᴛᴏs Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ
 - Sᴇᴀʀᴄʜ ғʟɪᴍ Dᴇᴛᴀɪʟs Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
 - Sᴇᴀʀᴄʜ ᴀɴʏᴛʜɪɴɢ Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
 <b>U𝗌𝖺𝗀𝖾:</b>
 - /imdb - Gᴇᴛ ᴛʜᴇ Fɪʟᴇ ɪɴʀᴏᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍʙᴅ sᴏᴜʀᴄᴇ
 - /search - Gᴇᴛ ᴛʜᴇ Fɪʟᴍ Iɴғᴏʀᴍᴀᴛɪᴏɴ ғᴏʀᴍ Vᴀʀɪᴏᴜs Sᴏᴜʀᴄᴇ
      
-     Bʏ A : @CRACKERON 🧑‍💻
-"""  
+     Bʏ A : @CRACKERON 🧑‍💻"""
     FUN_TXT = """ҒႮΝ ᎷϴᎠᎬ
 ᏔᎬᏞᏟϴᎷᎬ Ͳϴ ҒႮΝ ᎷϴᎠᎬ Ꭰϴ ͲᎻᎬ ҒϴᏞᏞϴᏔᏆΝᏀ 💥
 1. /dice- Ͳϴ ᎡϴᏞᏞ ͲᎻᎬ ᎠᏆᏟᎬ
