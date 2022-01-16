@@ -416,7 +416,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('Manual Filter', callback_data='manuelfilter'),
             InlineKeyboardButton('Auto Filter', callback_data='autofilter'),
-            InlineKeyboardButton('Iᴍᴅʙ', callback_data='imdb')
+            InlineKeyboardButton('Iᴍᴅʙ', callback_data='imdb_maxx')
             ],[
             InlineKeyboardButton('Fᴜɴ 😃', callback_data='fun'),
             InlineKeyboardButton('Connection', callback_data='coct'),
@@ -424,6 +424,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔮 Status', callback_data='stats')
+            ],[
+            InlineKeyboardButton('Close 🚫', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -507,7 +509,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-    elif query.data == "imdb":
+    elif query.data == "imdb_maxx":
         buttons = [[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='help'),
             InlineKeyboardButton('Home 🏠', callback_data='start')
