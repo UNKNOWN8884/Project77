@@ -80,51 +80,42 @@ IMBD_TXT ="""Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ E
 - it helps to avoid spamming in groups.
 
 <b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+1. Oɴʟʏ Aᴅᴍɪɴs ᴄᴀɴ ᴀᴅᴅ ᴀ ᴄᴏɴɴᴇᴄᴛɪᴏɴ.
+2. Sᴇɴᴅ <ᴄᴏᴅᴇ>/ᴄᴏɴɴᴇᴄᴛ</ᴄᴏᴅᴇ> ғᴏʀ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴍᴇ ᴛᴏ ᴜʀ PM
 
-<b>Commands and Usage:</b>
+
+<b>Cᴏᴍᴍᴀɴᴅ Aɴᴅ Usᴀɢᴇ:</b>
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
-
-<b>NOTE:</b>
-these are the extra features of Eva Maria
-
-<b>Commands and Usage:</b>
-• /id - <code>get id of a specified user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
-<b>NOTE:</b>
-This module only works for my admins
+<b>Nᴏᴛᴇ:</b>
+Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋ Fᴏʀ ᴍʏ Aᴅᴍɪɴs
 
 <b>Commands and Usage:</b>
-• /logs - <code>to get the rescent errors</code>
-• /stats - <code>to get status of files in db.</code>
-• /delete - <code>to delete a specific file from db.</code>
-• /users - <code>to get list of my users and ids.</code>
-• /chats - <code>to get list of the my chats and ids </code>
-• /leave  - <code>to leave from a chat.</code>
-• /disable  -  <code>do disable a chat.</code>
-• /ban  - <code>to ban a user.</code>
-• /unban  - <code>to unban a user.</code>
-• /channel - <code>to get list of total connected channels</code>
-• /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
-    LOG_TEXT_G = """#NewGroup
+• /logs - <code>Tᴏ Gᴇᴛ Tʜᴇ Rᴇsᴄᴇɴᴛ Eʀʀᴏʀs</code>
+• /stats - <code>Tᴏ Gᴇᴛ Sᴛᴀᴛᴜs Oғ Fɪʟᴇs Iɴ *****</code>
+• /delete - <code>Tᴏ Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪғɪᴄ Fɪʟᴇ Fʀᴏᴍ *****</code>
+• /users - <code>Tᴏ Gᴇᴛ Lɪsᴛ Oғ Mʏ Usᴇʀs Aɴᴅ Iᴅs</code>
+• /chats - <code>Tᴏ Gᴇᴛ Lɪsᴛ Oғ Tʜᴇ Mʏ Cʜᴀᴛs Aɴᴅ Iᴅs</code>
+• /leave  - <code>Tᴏ Lᴇᴀᴠᴇ Fʀᴏᴍ Cʜᴀᴛ</code>
+• /disable  -  <code>Dᴏ Dɪsᴀʙʟᴇ A Cʜᴀᴛ</code>
+• /ban  - <code>Tᴏ Bᴀɴ A Usᴇʀ</code>
+• /unban  - <code>Tᴏ UɴBᴀɴ A Usᴇʀ</code>
+• /channel - <code>Gᴇᴛ Lɪsᴛ Oғ Tᴏᴛᴀʟ Cᴏɴɴᴇᴄᴛᴇᴅ Cʜᴀɴɴᴇʟs</code>
+• /broadcast - <code>Tᴏ Bʀᴏᴀᴅᴄᴀsᴛ ᴀ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs</code>"""
+    STATUS_TXT = """🗂️ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+👥 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+💌 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
+⛽ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+🛢️ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    LOG_TEXT_G = """#NewGroup😍
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NewUser🔥
 ID - <code>{}</code>
 Name - {}
 """
