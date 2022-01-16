@@ -52,7 +52,7 @@ class script(object):
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
        
-    IMBD_TXT = """Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ Ex: Mᴏᴠɪᴇs Pʜᴏᴛᴏs Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ
+    IMDB_TXT = """Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ Ex: Mᴏᴠɪᴇs Pʜᴏᴛᴏs Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ
 - Sᴇᴀʀᴄʜ ғʟɪᴍ Dᴇᴛᴀɪʟs Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
 - Sᴇᴀʀᴄʜ ᴀɴʏᴛʜɪɴɢ Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
 <b>U𝗌𝖺𝗀𝖾:</b>
