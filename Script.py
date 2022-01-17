@@ -51,6 +51,18 @@ class script(object):
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
+
+       TELEGRAPH_TEXT = """ͲᏀᎡᎪᏢᎻ
+
+  ᏔᎬᏞᏟϴᎷᎬ Ͳϴ ͲᏀᎡᎪᏢᎻ Ꭰϴ ͲᎻᎬ ҒϴᏞᏞϴᏔᏆΝᏀ ℹ️
+ͲᎻᏆՏ ҒᎬᎪͲႮᎡᎬ ᎻᎬᏞᏢ Ͳϴ ႮᏢᏞϴᎪᎠ ᎷᎬᎠᏆᎪ ҒᏆᏞᎬՏ Ͳϴ ͲᎬᏞᎬᏀᎡᎪᏢᎻ ᏴᎬᏞϴᏔ 5ᎷᏴ
+
+1.ՏᎬΝᎠ ᎪΝᎽ ᎷᎬᎠᏆᎪ ҒᏆᏞᎬ ᏴᎬᏞϴᏔ 5ᎷᏴ
+
+2.ͲᎻᎬΝ ᎡᎬᏢᏞᎽ /Telegraph  ϴᎡ /tgraph ϴᎡ /ttmedia Ͳϴ ͲᎻᎬ ᎷᎬᎠᏆᎪ ҒᏆᏞᎬ.
+
+3.ͲᎻᎪͲ'Տ ᏆͲ ΝϴᏔ ᎽϴႮ ᏔᏆᏞᏞ ᏀᎬͲ ᏞᏆΝᏦ.
+"""
        
     MAXX_TEXT = """Sᴇᴀʀᴄʜ Yᴏᴜʀ Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ Ex: Mᴏᴠɪᴇs Pʜᴏᴛᴏs Mᴏᴠɪᴇs Iɴғᴏʀᴍᴀᴛɪᴏɴ
 - Sᴇᴀʀᴄʜ ғʟɪᴍ Dᴇᴛᴀɪʟs Wɪᴛʜᴏᴜᴛ Lᴇᴀᴠɪɴɢ Tᴇʟᴇɢʀᴀᴍ
