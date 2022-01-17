@@ -58,7 +58,10 @@ class script(object):
 <b>U𝗌𝖺𝗀𝖾:</b>
 - /imdb - Gᴇᴛ ᴛʜᴇ Fɪʟᴇ ɪɴʀᴏᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍʙᴅ sᴏᴜʀᴄᴇ
 - /search - Gᴇᴛ ᴛʜᴇ Fɪʟᴍ Iɴғᴏʀᴍᴀᴛɪᴏɴ ғᴏʀᴍ Vᴀʀɪᴏᴜs Sᴏᴜʀᴄᴇ
-     
+-ʜᴏᴡ ᴛᴏ sᴇᴀʀᴄʜ?
+ᴇx :
+/Search ᴋᴀʀɴᴀɴ, /search ᴘᴇᴛᴛᴀ Sᴀᴍᴇ ᴀs ɪᴍᴅʙ
+   
      Bʏ A : @CRACKERON 🧑‍💻"""
 
     FUN_TEXT = """ҒႮΝ ᎷϴᎠᎬ
